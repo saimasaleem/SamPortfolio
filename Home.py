@@ -13,7 +13,7 @@ Hi! I'm **Saima**, a passionate AI researcher working on cutting-edge techniques
 My work focuses on making AI **reliable**, **efficient**, and **usable during emergencies**.
 """)
 
-st.image("C:\\Users\\Saima Khan\\Desktop\\Sam\\SamPortfolio\\myphoto.jpg", width=260, caption="Welcome to my portfolio!")
+st.image("myPhoto.jpg", width=260, caption="Welcome to my portfolio!")
 
 st.markdown("---")
 
@@ -27,4 +27,5 @@ st.markdown("""
 """)
 
 st.markdown("---")
+
 
